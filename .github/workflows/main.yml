@@ -34,5 +34,5 @@ jobs:
       with:
         context: ./repo  # 这里是您clone下来的存储库路径
         push: true
-        tags: cym31152x/DocsAnthropic2API:latest
+        tags: cym31152x/docsclaude:latest
         platforms: linux/arm/v8
