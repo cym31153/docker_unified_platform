@@ -1,4 +1,4 @@
-name: Build and Push ARM Docker Image cym31152x/run
+name: cym31152x/run
 
 on:
   workflow_dispatch:
